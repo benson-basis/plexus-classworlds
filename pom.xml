@@ -35,7 +35,7 @@
   <scm>
     <connection>scm:git:git@github.com:benson-basis/plexus-classworlds.git</connection>
     <developerConnection>scm:git:git@github.com:benson-basis/plexus-classworlds.git</developerConnection>
-    <url>http://github.com/benson-basis/plexus-classworlds</url>
+    <url>http://benson-basis.github.io/plexus-classworlds</url>
     <tag>HEAD</tag>
   </scm>
     <distributionManagement>
