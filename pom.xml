@@ -34,14 +34,14 @@
 
   <scm>
     <connection>scm:git:git@github.com:benson-basis/plexus-classworlds.git</connection>
-    <developerConnection>scm:git@github.com:benson-basis/plexus-classworlds.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:benson-basis/plexus-classworlds.git</developerConnection>
     <url>http://github.com/benson-basis/plexus-classworlds</url>
     <tag>HEAD</tag>
   </scm>
     <distributionManagement>
         <site>
             <id>adm-site</id>
-            <url>scm:git@github.com:benson-basis/plexus-classworlds.git</url>
+            <url>scm:git:git@github.com:benson-basis/plexus-classworlds.git</url>
         </site>
     </distributionManagement>
 
